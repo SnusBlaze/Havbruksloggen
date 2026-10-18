@@ -1,0 +1,2 @@
+# Havbruksloggen
+remember choices
